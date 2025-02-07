@@ -1,0 +1,2 @@
+# nlp
+Python pandas ,vectorization
